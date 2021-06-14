@@ -1,5 +1,5 @@
-# Summarize Growth Mindset From My Perspective
-
+Summarize Growth Mindset From My Perspective
+===============
 ---
 Everyone faces problems as a part of his life, For me I walk through the problem once again, bit by bit, looking for new ways to think about it until I start to see another way forward. And for me, if i got stuck at some point i ask people around me  i dont just keep that in my head you never know you may did not  get the fire sparkle by yourself untill someone came and says a little tiny idea that you did not think about and it will lead you to solve that problem.
 
@@ -10,7 +10,7 @@ intelligence and talent are simply good starting points,A growth mindset is syno
 Also allows people to value what they’re doing regardless of the outcome. They’re tackling problems, charting new courses, working on important issues. Maybe they haven’t found the cure for cancer, but the search was deeply meaningful.
 
 
-As Sherman Finesilver says i'm inspired by his quote  he said Don’t worry about failure. Worry about the chances you miss when you don’t even try.
+As **Sherman Finesilver** says i'm inspired by his quote  he said Don’t worry about failure. Worry about the chances you miss when you don’t even try.
 and The very best thing you can do for the whole world is to make the most of yourself.
 
 ---
@@ -31,6 +31,10 @@ Check the picture downbelow.
 ---
 ### Read more about GrowthMindset
 [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+---
+* Github-Profile: <https://github.com/MasteRminD6666>
+* Email: <ramikhzaitoun@gmail.com>
 
 
 
