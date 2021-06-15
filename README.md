@@ -8,8 +8,8 @@ I think the best way to move forward would be to get practical working experienc
 
 | Table Of Content  |
 | ------------- | 
-| [Summarize](https://mastermind6666.github.io/reading-notes/Summarize.md)  | 
-| [Growth-Minsdet](https://mastermind6666.github.io/reading-notes/Growth-Minsdet.md) | 
-| [Readme102](https://mastermind6666.github.io/reading-notes/Readme102.md) | 
+| [Summarize](https://mastermind6666.github.io/reading-notes/Summarize)  | 
+| [Growth-Minsdet](https://mastermind6666.github.io/reading-notes/Growth-Minsdet) | 
+| [Readme102](https://mastermind6666.github.io/reading-notes/Readme102) | 
 
 
