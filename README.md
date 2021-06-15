@@ -11,5 +11,11 @@ I think the best way to move forward would be to get practical working experienc
 | [Summarize](https://mastermind6666.github.io/reading-notes/Summarize)  | 
 | [Growth-Minsdet](https://mastermind6666.github.io/reading-notes/Growth-Minsdet) | 
 | [Readme102](https://mastermind6666.github.io/reading-notes/Readme102) | 
-| [StretchGoal](https://mastermind6666.github.io/reading-notes/StretchGoal)
+| [StretchGoal](https://mastermind6666.github.io/reading-notes/StretchGoal) | 
+
+----
+
+
+
+And special Thanks for **Nahla Aleikish** , **Esra'a Othman** And **Abdulhakim Zatar** 🙏 
 
