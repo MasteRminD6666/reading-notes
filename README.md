@@ -1,4 +1,4 @@
-Hey All my name is **Rami** I'm **24** years old 
+Hello, All my name is **Rami** I'm **24** years old 
 I'm a graduated student 2021 as **Computer Science** 
 I joined this course to evaluate my inherent abilities,
 Although I have accumulated a strong foundational knowledge in this domain, 
