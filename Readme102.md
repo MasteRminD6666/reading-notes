@@ -38,5 +38,5 @@ When I go back to GitHub, I refresh the page and I will see my changes that I ad
 git status: will give us an explanation about what's happening, the state of our repo, we can see the changes that we did and to see the tracked and untracked files
 
 
-:space_invader: And special Thanks for **Nahla Aleikish** And **Esra'a Othman** 🙏
+:space_invader: And special Thanks for **Nahla Aleikish**  **Esra'a Othman** **Abdulhakim Zatar** 🙏
 
