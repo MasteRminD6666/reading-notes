@@ -3,11 +3,13 @@
 ---
 
 #### branches A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches. The main branch — the one where all changes eventually get merged back into, and is called master. This is the official working version of your project, and the one you see when you visit the project repository at github.com/yourname/projectname.
-[Branches](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#9_1)
+### [Branches](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#9_1)
+
 --- 
 
 #### **Merging** is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
-[Merging](https://git-scm.com/docs/git-merge)
+### [Merging](https://git-scm.com/docs/git-merge)
+
 ---
 
 #### **Conflicts**Often, merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file.
