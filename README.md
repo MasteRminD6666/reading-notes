@@ -14,7 +14,7 @@ this course is going to help me alot.
 | [Readme102](https://mastermind6666.github.io/reading-notes/Readme102) | 
 | [StretchGoal](https://mastermind6666.github.io/reading-notes/StretchGoal) |
 | [Lab102-StretchGoal](https://mastermind6666.github.io/reading-notes/Lab102) | 
-| [Video-Topic](https://mastermind6666.github.io/reading-notes/Videos-summrize) | 
+| [Videos-Topic](https://mastermind6666.github.io/reading-notes/Videos-summrize) | 
 
 ----
 
