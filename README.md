@@ -12,7 +12,8 @@ this course is going to help me alot.
 | [Summarize](https://mastermind6666.github.io/reading-notes/Summarize)  | 
 | [Growth-Minsdet](https://mastermind6666.github.io/reading-notes/Growth-Minsdet) | 
 | [Readme102](https://mastermind6666.github.io/reading-notes/Readme102) | 
-| [StretchGoal](https://mastermind6666.github.io/reading-notes/StretchGoal) | 
+| [StretchGoal](https://mastermind6666.github.io/reading-notes/StretchGoal) |
+| [Lab102-StretchGoal](https://mastermind6666.github.io/reading-notes/Lab102) | 
 
 ----
 
