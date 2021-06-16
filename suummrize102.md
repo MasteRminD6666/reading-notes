@@ -1,1 +1,29 @@
+#Today 
+---
+### We Discoverd The  Basics Of  HTML And JavaScrpit   
 
+---
+
+
+## HTML 
+
+---
+**HTML:** is a Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.
+we discoverd 
+* HTML Tags/Elemnts/Headings.
+* why we use it. 
+
+----
+
+##javascprit 
+---
+
+**JavaScript** is a scripting or programming language that allows you to implement complex features on web pages and make it interactive.
+we discoverd 
+* Commetns.
+* Variables. 
+* Opreators.
+* Data Types.
+* Comparison.
+* Statment.
+* Conditions.
