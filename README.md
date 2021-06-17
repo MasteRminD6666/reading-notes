@@ -15,6 +15,8 @@ this course is going to help me alot.
 | [StretchGoal](https://mastermind6666.github.io/reading-notes/StretchGoal) |
 | [Lab102-StretchGoal](https://mastermind6666.github.io/reading-notes/Lab102) | 
 | [Videos-Topic](https://mastermind6666.github.io/reading-notes/Videos-summrize) | 
+| [Summarizes105](https://mastermind6666.github.io/reading-notes/Summarizes105) | 
+
 
 ----
 
