@@ -26,7 +26,8 @@ this course is going to help me alot.
 ----
 
 | Code-201-Reading-Notes |                                                                                            
-| ------------- |                                                                                                     
+| ------------- | 
+| [Code-201-intro](https://mastermind6666.github.io/reading-notes/Code-201-Reading-Notes/Code-201-Heading)  |    
 | [Read-1](https://mastermind6666.github.io/reading-notes/Code-201-Reading-Notes/Read01)  |                       
 | [Read-2](https://mastermind6666.github.io/reading-notes/Code-201-Reading-Notes/Read02) |                 
 | [Read-3](https://mastermind6666.github.io/reading-notes/Code-201-Reading-Notes/Read03) | 
