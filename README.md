@@ -1,5 +1,5 @@
 
-Hello, All my name is **Rami** I'm **24** years old 
+Hello, everyone my name is **Rami** I'm **24** years old 
 I have accumulated a strong foundational knowledge in this domain, 
 I think the best way to move forward would be to get practical working experience in an established platform and of course meeting a new programmers
 
