@@ -44,9 +44,9 @@ I think the best way to move forward would be to get practical working experienc
 ----
 
 
-| Code-201-Reading-Notes |                                                                                            
+| Code-301-Reading-Notes |                                                                                            
 | ------------- | 
-| [Code-201-intro](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Code-201-Heading)  |    
+| [Code-301-intro](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read01)  |    
 
 
 
