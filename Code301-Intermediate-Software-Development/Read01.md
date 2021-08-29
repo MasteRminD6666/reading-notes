@@ -40,3 +40,7 @@ Inputs accepted by components.
 ![](https://s1.o7planning.com/en/12125/images/25128970.png)
 
 
+### flow of props
+![](https://miro.medium.com/max/1400/1*bsS8ETUQqgBpAoT2D6tjmw.png)
+
+
