@@ -4,7 +4,7 @@ React.js is an Open Source library developed by Facebook Developers, for buildin
 ![](https://miro.medium.com/max/700/0*5vEroMcVEXF1ghUi.jpg)
 
 
-React is fairly easy to understand and at this moment has an excellent reputation and a great community. It supports [ES6](#ES6) and can perform [client-side as well as server-side rendering](#CSSR).
+React is fairly easy to understand and at this moment has an excellent reputation and a great community. It supports ES6 and can perform client-side as well as server-side rendering.
 
 
 
@@ -12,7 +12,7 @@ React is fairly easy to understand and at this moment has an excellent reputatio
 
 ![](https://www.cronj.com/blog/wp-content/uploads/DOM2.png)
 
-Consider a page displaying a list containing 10 items and one is getting updated. [DOM](#DOM) will rebuild the entire list making it work 10 times more than what is necessary.
+Consider a page displaying a list containing 10 items and one is getting updated. DOM will rebuild the entire list making it work 10 times more than what is necessary.
 
 Virtual DOM is an abstract, lightweight copy of DOM. It can be changed as and when we want and then can be saved to the real DOM. Whenever a change occurs, Virtual DOM efficiently rerenders the DOM. It is much faster than DOM. It has the same properties as a real DOM object.
 
