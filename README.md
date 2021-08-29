@@ -46,7 +46,8 @@ I think the best way to move forward would be to get practical working experienc
 
 | Code-301-Reading-Notes |                                                                                            
 | ------------- | 
-| [Code-301-intro](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read01)  |    
+| [Code-301-intro](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read01)  | 
+| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |    
 
 
 
@@ -56,6 +57,7 @@ I think the best way to move forward would be to get practical working experienc
 | Code-401-Reading-Notes |                                                                                            
 | ------------- | 
 | [Code-201-intro](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Code-201-Heading)  |    
+| [Code-201-int](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Code-201-Heading)  |  
 
 
 
