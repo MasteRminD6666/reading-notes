@@ -10,28 +10,14 @@ use map method and wrap each value with a jsx tag.
 - What is the purpose of a key?  
 they help react identify which values has been changed add or removed.  
   
-- What is the spread operator?  
-{...}
-- List 4 things that the spread operator can do.  
-seperate arrays values, add arrays, seperat assignment binding.
-- Give an example of using the spread operator to combine two arrays.
-`let arr1 = [c,v,b]`  
-`let arr2 = [d,g,h]`  
-`let arr3 = [...arr1,...arr2]`
-- Give an example of using the spread operator to add a new item to an array.
-`let arr4=[...arr2,item]`
-- Give an example of using the spread operator to combine two objects into one.
-`{...objectOne, ...objectTwo}`
+Approaching the end of my journey at Flatiron School, one of the more interesting and hard subjects to learn was React. After learning pure vanilla JavaScript and being able to write an application with it, we learned the capabilities of react and how useful it is as a framework. With the transition to react, we are introduced to JSX, which is an implementation of both JavaScript and html all in one. One of the hardest things about the transition was the general use of the framework. In JavaScript, we had separate files for html and javascript. Whereas now, it’s all JSX and multiple components of an application. We are introduced to state and props, and the component lifecycle. Creating functions and making them work with state was a challenging part of the learning curve. I had a problem in a project where in the child component, I had an onClick function, and I needed that onClick function where state was, which was in the parent component. I got stuck on how to pass my function down from the parent component to the child component. When I was doing research on how to pass down functions as props into different components, I saw a lack of information on the web. So I decided to write this blog in case anyone else feels confused in this part of the React learning process.
 
-- In the video, what is the first step that the developer does to pass functions between components?  
-create the function in the parent component.
-- In your own words, what does the increment function do?  
-changes the state of the parent component by being passed as props to the child component and being called there.
-- How can you pass a method from a parent component into a child component?  
-like a normal prop.
-- How does the child component invoke a method that was passed to it from a parent component?  
-simply calling it using this.methond name
+Creating Functions at the State Level Components
+When working with state, we typically want state to be in only 1 component. In other terms, we want the lowest number of components with state as possible. This means that in order to change state in a different component, we have to pass down our functions as props to the component that needs to change state. This way, we can have functions in our child components that are able to change state. This is very useful for cases where you have a child component that has an onClick function or an onChange function that needs to change state in order for the user to see the correct information on the screen.
+
+Passing Down Functions As Props
+The process of passing down functions as props can be very confusing. It happens during the render, where you call a new component. During that component call, you pass in your function as a prop. In my demonstration, I pass in the prop as [How to Pass Functions as Props](https://dev.to/vadims4/passing-down-functions-in-react-4618) .
 
 
-## [How to Pass Functions as Props](https://dev.to/vadims4/passing-down-functions-in-react-4618)
+
 
