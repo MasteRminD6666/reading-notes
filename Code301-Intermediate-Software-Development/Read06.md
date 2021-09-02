@@ -19,15 +19,18 @@ npm install -g jshint
 Node is particularly suited to building applications that require some form of real-time interaction or collaboration
 
 - What are the 6 reasons for pair programming?
-1.Greater efficiency
-2.Engaged collaboration
-3.Learning from fellow students
-4.Social skills
-5.Job interview readiness
-6.Work environment readiness
+
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
 - In your experience, which of these reasons have you found most beneficial?
-1.Social skills
-2.Work environment readiness
+
+1. Social skills
+2. Work environment readiness
 - How does pair programming work?
+
 two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently
 
