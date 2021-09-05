@@ -52,15 +52,15 @@ I think the best way to move forward would be to get practical working experienc
 | [React Froms](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read04)  |    
 | [thinking in React](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read05)  |  
 | [Node.js](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read06)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
+| [REST](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read07)  |  
+| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read08)  |  
+| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read09)  |  
+| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read10)  |  
+| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read11)  |  
+| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read12)  |  
+| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read13)  |  
+| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read14)  |  
+| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read15)  |  
 | [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
 
 
