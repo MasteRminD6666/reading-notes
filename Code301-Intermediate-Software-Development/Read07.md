@@ -16,6 +16,15 @@ Code on demand (optional)
 – REST allows client functionality to be extended by downloading and executing code in the form of applets or scripts. This simplifies clients by reducing the number of features required to be pre-implemented.
 
 
+## Who is Roy Fielding?
+the pearson who crated the HTTP (Hypertext Transfer Protocol
+
+## Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
+because each machine has a different language
+
+## What is the HTTP protocol that Fielding and his friends created?
+its an application-layer protocol for transmitting hypermedia documents, such as HTML. It was designed for communication between web browsers and web servers, 
+
 
 ## What does a GET do?
 GET is used to request data from a specified resource.
