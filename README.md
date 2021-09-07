@@ -54,7 +54,7 @@ I think the best way to move forward would be to get practical working experienc
 | [Node.js](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read06)  |  
 | [REST](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read07)  |  
 | [API Design Best Practices](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read08)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read09)  |  
+| [Functional Programming Concepts](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read09)  |  
 | [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read10)  |  
 | [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read11)  |  
 | [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read12)  |  
