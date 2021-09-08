@@ -42,7 +42,7 @@ Description. A RangeError is thrown when trying to pass a value as an argument t
 
 # What is a ‘tyep error’?
 
-# when a value is not of the expected type. A TypeError may be thrown when: an operand or argument passed to a function is incompatible with the type expected by that operator or function; or.
+ when a value is not of the expected type. A TypeError may be thrown when: an operand or argument passed to a function is incompatible with the type expected by that operator or function; or.
 
 # What is a breakpoint?
 
