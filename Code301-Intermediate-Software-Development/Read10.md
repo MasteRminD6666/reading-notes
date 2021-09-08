@@ -1,6 +1,6 @@
 # The JavaScript Call Stack - What It Is and Why It's Necessary
 
-##What is a ‘call’?
+## What is a ‘call’?
 
  is a data structure that uses the Last In, First Out (LIFO) principle to temporarily store and manage function invocation (call)
 
@@ -22,7 +22,7 @@ When we say that the call stack, operates by the data structure principle of Las
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20201213102457/global.png)
 
-thirdFunction();
+
 
 # What causes a Stack Overflow?
 
