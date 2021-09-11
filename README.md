@@ -56,7 +56,7 @@ I think the best way to move forward would be to get practical working experienc
 | [API Design Best Practices](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read08)  |  
 | [Functional Programming Concepts](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read09)  |  
 | [CallStack](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read10)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read11)  |  
+| [SQL vs NOSQL](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read11)  |  
 | [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read12)  |  
 | [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read13)  |  
 | [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read14)  |  
