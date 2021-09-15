@@ -59,7 +59,7 @@ I think the best way to move forward would be to get practical working experienc
 | [SQL vs NOSQL](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read11)  |  
 | [Authentication](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read12)  |  
 | [CRUD](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read13)  |  
-| [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read14)  |  
+| [Diversity & Inclusion](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read14)  |  
 | [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read15)  |  
 | [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)  |  
 
