@@ -72,7 +72,7 @@ I think the best way to move forward would be to get practical working experienc
 
 | Code-401-Reading-Notes |                                                                                            
 | ------------- | 
-| [Code-401-intro](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read 01)  |    
+| [Code-401-intro](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read01)  |    
 | [Code-401-int](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Code-201-Heading)  |  
 
 
