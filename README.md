@@ -75,8 +75,8 @@ I think the best way to move forward would be to get practical working experienc
 | [Code-401-intro](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read0)  |    
 | [Read01](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read01)  |  
 | [Read02](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read02)  |  
-| [Read01](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read03)  |  
-| [Read01](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read01)  |  
+| [Read03](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read03)  |  
+| [Data Modeling](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read04)  |  
 | [Read01](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read01)  |  
 | [Read01](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read01)  |  
 | [Read01](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read01)  |  
