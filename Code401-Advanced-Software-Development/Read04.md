@@ -128,5 +128,4 @@ organizes elements of data and standardizes how they relate to one another and t
 
 <hr>
 
-## Linked List
 
