@@ -3,6 +3,7 @@
 ### + Write the following steps in the correct order:
 
 ![spotify-OAuth-diagram.PNG](https://developer.spotify.com/assets/AuthG_ImplicitGrant.png)
+![facebook-Oauth](https://www.pngkit.com/png/detail/94-947445_facebook-login-php-app-diagram.png)
 
 1. Register your application to get a client_id and client_secret
 1. Ask the client if they want to sign in via a third party
