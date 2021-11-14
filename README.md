@@ -83,7 +83,7 @@ I think the best way to move forward would be to get practical working experienc
 | [Stackl And queu](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read09)  |  
 | [Authorization/Authentication](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read10)  |  
 | [event driven](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read11)  |  
-| [Read01](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read01)  |  
+| [Socket.io](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read12)  |  
 | [Read01](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read01)  |  
 | [Read01](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read01)  |  
 
