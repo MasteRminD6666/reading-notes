@@ -85,7 +85,7 @@ I think the best way to move forward would be to get practical working experienc
 | [event driven](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read11)  |  
 | [Socket.io](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read12)  |  
 | [Message Queues](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read13)  |  
-| [Read01](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read14)  |  
+| [Event Driven Architecture](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read14)  |  
 
 
 
