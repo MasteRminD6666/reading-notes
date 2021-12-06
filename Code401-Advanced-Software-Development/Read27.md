@@ -1,62 +1,86 @@
-# Reading  Props and State
+# useState() Hook
 
-### Does a deployed React application require a server?
+# Review, Research, and Discussion
 
-No, you can run npm build in a create-react-app in order to compile all react code into a build directory with a static index.html page.
+**How does React differ from vanilla JS/HTML/CSS?**
 
-### Why do we prefer to test a React application at the behavior rather than the unit level?
+- with vanilla you can write normal js only, and you can build UIs but in a hard way :
 
-React being used to create a front end UI, it is better to test the application using behavior driven development. When developing a React application each functionality maybe important. However, being a UI it is possible to create a more user friendly application using behvaioral driven test which containts context or the starting state. Followed by the event which is what the user does and the outcome being the expected result.
+  - a lot of coding
+  - static code (sometimes if you edit on something will affect others)
+  - need to refresh whenever you go to new page.
 
-### What does `npm run build` do?
+- with React.js you can build UIs with an easy way :
 
-[source](https://create-react-app.dev/docs/deployment#:~:text=You%20don't%20necessarily%20need,an%20existing%20server%20side%20app.)
-Creates a build directory with a production build of your app.
+  - component based application.(organized and reusable).
+  - single page application(no need to refresh anymore)
+  - using JSX (write HTML & JS togethor)
 
-### Describe the actual composition / architecture of a React application
+**What is the primary difference between a function component and a class component?**
 
-[source](https://dzone.com/articles/a-detailed-study-of-flux-the-reactjs-application-a)
-React - a popular front-end technology like AngularJS - is a Javascript framework, but it only works with the View layer, which means you have only the V in the MVC - Model-View-Controller - architecture. React gives you the template language and a few function hooks to render HTML.
+- function components :
 
-## Document the following Vocabulary Terms
+  - use normal js functions
+  - called stateless components. (don't have states)
+  - can use props as arguments in the function
+  - don't have a render method(return JSX directly for rendering).
+  - don't have life cycle methods( there is useEffect instead of them).
 
-### BDD
+- class components :
 
-[medium](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2)
-Behaviour driven development is an agile software development process that encourages collaboration among developers, QA, and non-technical or business participants in a software project. It encourages teams to use conversation and concrete examples to formalize a shared understanding of how the application should behave
+  - use ES6 classes
+  - called stateful components (it have a states)
+  - can use props.
+  - it have a render method to render the HTML elements.
+  - it have a life cycle methods.
 
-### Acceptance Tests
+### External resources :
 
-[wiki](https://en.wikipedia.org/wiki/Acceptance_testing)
-testing with respect to user requirements, based on acceptance criteria
+- [https://ygok17.medium.com/what-are-primary-differences-between-vanilla-js-and-react-js-2c4287ef777a](https://ygok17.medium.com/what-are-primary-differences-between-vanilla-js-and-react-js-2c4287ef777a)
 
-### mounting
+- [https://www.geeksforgeeks.org/differences-between-functional-components-and-class-components-in-react/](https://www.geeksforgeeks.org/differences-between-functional-components-and-class-components-in-react/)
+- [https://www.freecodecamp.org/news/functional-components-vs-class-components-in-react/](https://www.freecodecamp.org/news/functional-components-vs-class-components-in-react/)
 
-[source](https://www.freecodecamp.org/news/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630/)
-Mounting is the phase in which our React component mounts on the DOM (i.e., is created and inserted into the DOM). This method is called just before a component mounts on the DOM or the render method is called. After this method, the component gets mounted.
+# Document the following Vocabulary Terms
 
-### build
+#### Functional Components : react components that use normal functions instead of classes.
 
-[source](https://create-react-app.dev/docs/deployment#:~:text=You%20don't%20necessarily%20need,an%20existing%20server%20side%20app.)
-a static compilation of all files in a react project, minified and combined for deployment. npm run build creates a build directory with a production build of your app
+#### Children / Child Components : any component that renderd and imported inside another component called child and the parent will be the other component that recieved the child one.
 
-## Preview
+# Preparation Materials
 
-Skim the following materials in preparation for the upcoming lecture. Note the following as you browse the material, and be prepared to participate in discussions during lecture
+# making sense of hooks
 
-- Which 3 things had you heard about previously and now have better clarity on?
-  state and props
-- Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-  state props and functional components
-- What are you most excited about trying to implement or see how it works?
-  deploy on github pages ????
+- Hooks let us organize the logic inside a component into reusable isolated units.
 
-## Preparation Materials
+- since the hooks are a blocks that built by normal functions, and each custom block does a certain functionality, then you can build your own hooks an share it as npm packages like; "react-native-hooks".
 
-- ### [setState explained](https://css-tricks.com/understanding-react-setstate/)
-- ### [handling events](https://facebook.github.io/react/docs/handling-events.html)
-- ### [forms](https://facebook.github.io/react/docs/forms.html)
-- ### [state and lifecycle](https://facebook.github.io/react/docs/state-and-lifecycle.html)
-- ### [components and props](https://facebook.github.io/react/docs/components-and-props.html)
-- ### [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-- ### [RTL Testing Example](https://thomlom.dev/beginner-guide-testing-react-apps/)
+# the state hook
+
+- hooks : A Hook is a special function that lets you “hook into” React features.
+
+- hooks always start with 'use' word.
+
+- functional componenets are stateless components by default, but with hook you can add states to these components.
+
+- array distructuring of useState hook used to give us the first index of returned array form useStete hook will be the state itself, and the second index will be the function that can i set the state again.
+
+# hooks api
+
+- useState hook doesn't merge the old and new state togethor. but this.setState does.
+- we use spread operator to solve this issue with useState.
+- in useState The initial state argument is only used during the first render.
+
+### Rules of using Hooks :
+
+#### 1. only call hooks at the top level; not inside loops, conditions, and nested functions.
+
+#### 2. only call hooks inside React functional components; not inside normal javascript functions.
+
+- custom hook : if the function name starts with 'use' and run inside it other hook. then consider as a custom hook.
+
+# hooks api reference
+
+- you can put the value of initial state in useState hook as a function and the returned value will be the initial state.
+
+- there are many Hooks; useState, useEffect, useContext, useRef, useLayoutEffect, useDebugValue, useImperativeHandle, useMemo, useCallback, and useReducer.
