@@ -90,6 +90,8 @@ I think the best way to move forward would be to get practical working experienc
 | [Aws](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read16)  |  
 | [Aws:s3 And Lambda](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read17)  |  
 | [Aws events](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read19)  |   
+| [Component Based UI](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read26)  |   
+| [Hooks](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read27)  |   
 
 
 
