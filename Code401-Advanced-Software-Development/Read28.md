@@ -28,7 +28,7 @@
 
 - **Mounting and Un-Mounting** The main job of React is to figure out how to modify the DOM to match what the components want to be rendered on the screen. React does so by mounting (adding nodes to the DOM), unmounting (removing them from the DOM), and updating (making changes to nodes already in the DOM).
 
-## Preparation Materials
+#### Children / Child Components : any component that renderd and imported inside another component called child and the parent will be the other component that recieved the child one.
 
 ### Using the Effect Hook
 
