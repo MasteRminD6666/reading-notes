@@ -1,6 +1,6 @@
-# Reading Class 33: Context API
+# Reading Class 31: Context API
 
-### Describe use cases for useMemo() and useReducer()
+### Describe use cases for useState() and useReducer()
 
 [source](https://stackoverflow.com/questions/53165945/what-is-usestate-in-react)
 `useState()`lets you add state to a functional component. It accepts an argument which is the initial value of the state property and returns the current value of state property and a method which is capable of updating that state property.
