@@ -97,6 +97,8 @@ I think the best way to move forward would be to get practical working experienc
 | [Hash Table](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read30)  | 
 | [context api](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read31)  | 
 | [context api behavior](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read32)  | 
+| [Login and auth](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read33)  | 
+
 
 
 
