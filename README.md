@@ -101,6 +101,7 @@ I think the best way to move forward would be to get practical working experienc
 | [Api intgration](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read34)  | 
 | [graphs](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read35)  | 
 | [ Application State with Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read36)  | 
+| [ Compine Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read37)  | 
 
 
 
