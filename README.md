@@ -102,7 +102,9 @@ I think the best way to move forward would be to get practical working experienc
 | [graphs](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read35)  | 
 | [ Application State with Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read36)  | 
 | [ Compine Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read37)  | 
-
+| [ Async Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read38)  | 
+| [ Compine Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read39)  | 
+| [ Compine Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read40)  | 
 
 
 
