@@ -104,7 +104,9 @@ I think the best way to move forward would be to get practical working experienc
 | [ Compine Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read37)  | 
 | [ Async Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read38)  | 
 | [ Compine Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read39)  | 
-| [ Compine Redux](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read40)  | 
+| [ React native](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read41)  | 
+| [ 42](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read42)  | 
+| [ 43](https://mastermind6666.github.io/reading-notes/Code401-Advanced-Software-Development/Read43)  | 
 
 
 
